@@ -35,10 +35,6 @@
 
   /*===== z index =====*/
     --z-fixed: 100;
-  
-  /*===== Rotate img =====*/
-    --rotate-img: rotate(-30deg);
-
 }
 
 @media screen and (min-width: 768px) {
